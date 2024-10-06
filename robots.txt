@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bohofoludiza.pages.dev/sitemap.xml
